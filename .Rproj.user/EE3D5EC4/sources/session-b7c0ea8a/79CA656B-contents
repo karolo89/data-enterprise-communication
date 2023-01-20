@@ -1,0 +1,12 @@
+---
+title: "Homework 1"
+author: "Rochelle & Karol"
+date: "2023-01-20"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+mtcars %>% summary
+```
+
